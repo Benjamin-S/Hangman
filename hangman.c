@@ -1,13 +1,3 @@
-/****************************************************************************
-* COSC2138/CPT 220 - Programming Principles 2A
-* Study Period 2  2015 Assignment #1 - hangman program
-* Full Name        : Benjamin Symons
-* Student Number   : s3435842
-* Course Code      : COSC2138/CPT 220
-* Start up code provided by the CTeach Team
-****************************************************************************/
-
-
 #include "hangman.h"
 
 /****************************************************************************
